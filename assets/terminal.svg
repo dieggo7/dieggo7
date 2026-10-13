@@ -17,7 +17,7 @@
   <text x="46" y="108" class="out"><tspan class="ok">200 OK</tspan> · access + refresh tokens</text>
 
   <text x="28" y="146" class="cmd">$ pytest</text>
-  <text x="46" y="168" class="out"><tspan class="ok">XX passed</tspan> · coverage XX%</text>
+  <text x="46" y="168" class="out"><tspan class="ok">26 passed</tspan> · coverage 100%</text>
 
   <text x="28" y="206" class="cmd">$ git push origin main</text>
   <text x="46" y="228" class="out"><tspan class="ok">pushed</tspan> · branch main · repo on GitHub</text>
